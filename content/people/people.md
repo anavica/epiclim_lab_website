@@ -1,12 +1,12 @@
 ---
 content:
   user_groups:
-  - Principal Investigators
+  - Head of Research Group
   - Researchers
-  - Grad Students
-  - Administration
-  - Visitors
-  - Alumni
+  - PhD Students
+  - MSc Students
+  - BSc Students
+  - Collaborators
 design:
   show_interests: false
   show_role: true
