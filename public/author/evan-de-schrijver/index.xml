@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evan de Schrijver | EPICLIM-LAB</title>
+    <link>epiclimlab.com/author/evan-de-schrijver/</link>
+      <atom:link href="epiclimlab.com/author/evan-de-schrijver/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evan de Schrijver</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© EPICLIM-LAB Research Group</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/epiclimlab.com/author/evan-de-schrijver/avatar_hu85088db681a9cd1c0724d42a7a3b7dbe_111244_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Evan de Schrijver</title>
+      <link>epiclimlab.com/author/evan-de-schrijver/</link>
+    </image>
+    
+    <item>
+      <title>A Comparative Analysis of the Temperature‐Mortality Risks Using Different Weather Datasets Across Heterogeneous Regions</title>
+      <link>epiclimlab.com/publication/2021-mortality-gridded-datasets-switzerland-geohealth/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>epiclimlab.com/publication/2021-mortality-gridded-datasets-switzerland-geohealth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

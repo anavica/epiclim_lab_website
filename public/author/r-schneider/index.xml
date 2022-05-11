@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Schneider | EPICLIM-LAB</title>
+    <link>epiclimlab.com/author/r-schneider/</link>
+      <atom:link href="epiclimlab.com/author/r-schneider/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Schneider</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© EPICLIM-LAB Research Group</copyright><lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/epiclimlab.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>R Schneider</title>
+      <link>epiclimlab.com/author/r-schneider/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of weather station and climate reanalysis data for modelling temperature-related mortality</title>
+      <link>epiclimlab.com/publication/2022-era5land-global-scientific-reports/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>epiclimlab.com/publication/2022-era5land-global-scientific-reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cross-sectional analysis of meteorological factors and SARS-CoV-2 transmission in 409 cities across 26 countries</title>
+      <link>epiclimlab.com/publication/2021-covid-nature-comm/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>epiclimlab.com/publication/2021-covid-nature-comm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Analysis of the Temperature‐Mortality Risks Using Different Weather Datasets Across Heterogeneous Regions</title>
+      <link>epiclimlab.com/publication/2021-mortality-gridded-datasets-switzerland-geohealth/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>epiclimlab.com/publication/2021-mortality-gridded-datasets-switzerland-geohealth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

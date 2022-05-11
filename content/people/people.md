@@ -1,12 +1,7 @@
 ---
 content:
   user_groups:
-  - Head of Research Group
-  - Researchers
-  - PhD Students
-  - MSc Students
-  - BSc Students
-  - Collaborators
+  - Members
 design:
   show_interests: false
   show_role: true

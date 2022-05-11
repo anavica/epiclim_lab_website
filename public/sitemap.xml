@@ -2,111 +2,250 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>epiclimlab.netlify.app/course/example/python/</loc>
+    <loc>epiclimlab.com/course/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/course/example/visualization/</loc>
+    <loc>epiclimlab.com/course/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/course/example/stats/</loc>
+    <loc>epiclimlab.com/course/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/</loc>
+    <loc>epiclimlab.com/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/event/example/</loc>
+    <loc>epiclimlab.com/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/event/</loc>
+    <loc>epiclimlab.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/post/</loc>
+    <loc>epiclimlab.com/publication-type/2/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/authors/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/publication/2022-era5land-global-scientific-reports/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/d-roye/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/era5-land-reanalysis/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/et-al/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/m-mistry/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/mortality/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/p-masselot/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/publication_types/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/publication/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/r-schneider/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tags/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/temperature/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/b-wen/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/publication/2022-fluctuating-temperature-the-innovation/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/heat/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/modification-effect/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/temperature-variability/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/y-wu/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/publication/2021-covid-nature-comm/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/a-gasparrini/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/a-tobias/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/ana-m.-vicedo-cabrera/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/b-armstrong/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/cmmid-covid-19-working-group/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/covid19/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/f-sera/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/human-health/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/k-okeilly/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/m-hashizume/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/m-pascal/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/mcc-collaborative-research-network/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/mcc-study/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/pandemic/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/r-lowe/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/r-von-borries/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/s-abbott/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/s-meakin/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/climate-change/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/g-chen/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/global/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/publication/2021-forest-fire-mortality-lancet-planetary-health/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/pollution/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/risk/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/wild-fires/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/climate/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/publication/2021-minimum-mortality-temperature-environmental-epidemiology/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/minimum-mortality-temperature/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/publication/2021-gridded-mortality-head-cold-lancet-planetary-health/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/non-optimal-temperatures/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/q-zhao/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/regional/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/attribution/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/n-scovronick/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/publication/2021-attribution-mortality-nature-climatechange/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/post/</loc>
     <lastmod>2021-05-20T11:03:09+02:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/post/hi-world/</loc>
+    <loc>epiclimlab.com/post/hi-world/</loc>
     <lastmod>2021-05-20T11:03:09+02:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/course/example/</loc>
+    <loc>epiclimlab.com/publication/2021-mortality-gridded-datasets-switzerland-geohealth/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/cl-folly/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/cold/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/evan-de-schrijver/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/gridded-climate-dataset/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/author/oh-franco/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/reanalysis/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/tag/spatiotemporal-analysis/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>epiclimlab.com/course/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/course/</loc>
+    <loc>epiclimlab.com/course/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/tag/data-visualization/</loc>
+    <loc>epiclimlab.com/tag/data-visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/tag/statistics/</loc>
+    <loc>epiclimlab.com/tag/statistics/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>epiclimlab.netlify.app/tags/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>epiclimlab.com/about/</loc>
   </url><url>
-    <loc>epiclimlab.netlify.app/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>epiclimlab.com/admin/</loc>
   </url><url>
-    <loc>epiclimlab.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>epiclimlab.com/contact/</loc>
   </url><url>
-    <loc>epiclimlab.netlify.app/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>epiclimlab.com/people/</loc>
   </url><url>
-    <loc>epiclimlab.netlify.app/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>epiclimlab.com/categories/</loc>
   </url><url>
-    <loc>epiclimlab.netlify.app/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>epiclimlab.com/author/christoph-kestenholz/</loc>
   </url><url>
-    <loc>epiclimlab.netlify.app/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>epiclimlab.com/author/coral-salvador/</loc>
   </url><url>
-    <loc>epiclimlab.netlify.app/post/20-12-02-icml-best-paper/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <loc>epiclimlab.com/author/linnea-friden/</loc>
   </url><url>
-    <loc>epiclimlab.netlify.app/post/20-12-01-wowchemy-prize/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/author/nelson-bighetti/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>epiclimlab.netlify.app/admin/</loc>
-  </url><url>
-    <loc>epiclimlab.netlify.app/contact/</loc>
-  </url><url>
-    <loc>epiclimlab.netlify.app/people/</loc>
-  </url><url>
-    <loc>epiclimlab.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>epiclimlab.com/author/severine-bar/</loc>
   </url>
 </urlset>

@@ -11,7 +11,7 @@ social:
 superuser: false
 title: Coral Salvador
 user_groups:
-- Collaborators
+- Members
 ---
 
 I am a postdoctoral researcher in the group Environmental Physics Laboratory (EPhysLab) at the University of Vigo (Spain). I am collaborating with the EpiClimLab on a multi-country study on the impact of heat on preterm births (part of the Multi-Country Multi-City collaborative research network).     

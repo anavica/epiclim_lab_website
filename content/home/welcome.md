@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "EpiClimLab Research Group"
+title: "EpiClim-Lab Research Group"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -16,5 +16,4 @@ advanced:
   css_style:
   css_class:
 ---
-
-aims at providing evidence on the impact of climate change on health. It works in the intersection between epidemiology and climate science. 
+Climate change & Health research group at University of Bern - Switzerland. We aim at providing evidence on the impact of climate change on health. Our work is highly interdisciplinary in the intersection between epidemiology and climate science. 

@@ -20,20 +20,25 @@
 
 [[main]]
   name = "About us"
+  url = "about"
+  weight = 10
+  
+[[main]]
+  name = "Our team"
   url = "people"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Publications"
-  url = "publication"
-  weight = 40
+  url = "#publications_featured"
+  weight = 30
   
 [[main]]
   name = "Activities"
   url = "event"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 50

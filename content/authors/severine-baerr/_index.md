@@ -11,6 +11,6 @@ social:
 superuser: false
 title: Séverine Bär
 user_groups:
-- BSc Students
+- Members
 ---
 I am pursuing my studies in Medicine at the University of Bern (Switzerland). I am currently working on my Doctoral Thesis at EpiClimLab on "The impact of weather on suicides in Switzerland" under the supervision of Ana M. Vicedo-Cabrera and Prof Thomas Müller. 

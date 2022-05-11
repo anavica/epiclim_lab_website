@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Q Zhao | EPICLIM-LAB</title>
+    <link>epiclimlab.com/author/q-zhao/</link>
+      <atom:link href="epiclimlab.com/author/q-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Q Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© EPICLIM-LAB Research Group</copyright><lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/epiclimlab.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Q Zhao</title>
+      <link>epiclimlab.com/author/q-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Global, regional, and national burden of mortality associated with non-optimal ambient temperatures from 2000 to 2019: a three-stage modelling study</title>
+      <link>epiclimlab.com/publication/2021-gridded-mortality-head-cold-lancet-planetary-health/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>epiclimlab.com/publication/2021-gridded-mortality-head-cold-lancet-planetary-health/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

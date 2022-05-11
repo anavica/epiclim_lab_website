@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cold | EPICLIM-LAB</title>
+    <link>epiclimlab.com/tag/cold/</link>
+      <atom:link href="epiclimlab.com/tag/cold/index.xml" rel="self" type="application/rss+xml" />
+    <description>cold</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© EPICLIM-LAB Research Group</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/epiclimlab.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>cold</title>
+      <link>epiclimlab.com/tag/cold/</link>
+    </image>
+    
+    <item>
+      <title>A Comparative Analysis of the Temperature‐Mortality Risks Using Different Weather Datasets Across Heterogeneous Regions</title>
+      <link>epiclimlab.com/publication/2021-mortality-gridded-datasets-switzerland-geohealth/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>epiclimlab.com/publication/2021-mortality-gridded-datasets-switzerland-geohealth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

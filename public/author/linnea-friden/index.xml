@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linnéa Fridén | EPICLIM-LAB</title>
+    <link>epiclimlab.com/author/linnea-friden/</link>
+      <atom:link href="epiclimlab.com/author/linnea-friden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linnéa Fridén</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© EPICLIM-LAB Research Group</copyright>
+    <image>
+      <url>/epiclimlab.com/author/linnea-friden/avatar_hu2c77cabc0687238760a114afd4526681_103607_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Linnéa Fridén</title>
+      <link>epiclimlab.com/author/linnea-friden/</link>
+    </image>
+    
+  </channel>
+</rss>
