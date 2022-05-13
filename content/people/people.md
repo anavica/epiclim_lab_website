@@ -1,6 +1,7 @@
 ---
 content:
   user_groups:
+  - Principal Investigator
   - Members
 design:
   show_interests: false

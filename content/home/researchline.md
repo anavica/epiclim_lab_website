@@ -23,6 +23,8 @@ design:
   background:
     color: '#515462'
     text_color_light: true
+advanced:
+  css_style: 'color:#9f9f9f;'
 ---
 
 > Projection studies of health impacts associated to climate change

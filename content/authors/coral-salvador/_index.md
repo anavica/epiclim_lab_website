@@ -8,6 +8,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:coral.salvador@ispm.unibe.ch
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/CoralSalvador93
 superuser: false
 title: Coral Salvador
 user_groups:
