@@ -20,6 +20,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-6982-8867
+- icon: linkedin
+  icon_pack: fab
+  link: https://ch.linkedin.com/in/ana-m-vicedo-cabrera-21108b1b/en
 superuser: true
 title: Ana M. Vicedo-Cabrera
 user_groups:
@@ -28,7 +31,7 @@ user_groups:
 
 I am an environmental epidemiologist with interests in climate change research, planetary health and development of advanced epidemiological methods.
 
-I lead the Climate Change and Health research group ("EpiCimLab") at the Institute of Social and Preventive Medicine (University of Bern) since September 2019. I am also a member of the Oeschger Center for Climate Change Research (University of Bern). I hold an MSc in Environmental Toxicology (University of Valencia, Spain) and Epidemiology (University of Turin, Italy). Since the completion of my PhD studies (University of Valencia) in 2014, I joined different research institutions as early career researcher in Sweden (Umea University), Switzerland (Swiss Tropical and Public Health Institute) and the UK (London School of Hygiene and Tropical Medicine).
+Since September 2019, I lead the Climate Change and Health research group - EpiCimLab at the Institute of Social and Preventive Medicine of the University of Bern. I am also a member of the Oeschger Center for Climate Change Research (University of Bern). I hold an MSc in Environmental Toxicology (University of Valencia, Spain) and Epidemiology (University of Turin, Italy). Since the completion of my PhD studies (University of Valencia) in 2014, I joined different research institutions as early career researcher in Sweden (Umea University), Switzerland (Swiss Tropical and Public Health Institute) and the UK (London School of Hygiene and Tropical Medicine).
 
 My research develops along the intersection between epidemiology and climate sciences to understand how different climate factors and other related environmental stressors affect human health in the context of climate change and planetary health. In particular, I am interested in assessing vulnerabilities to climate-sensitive diseases across populations and exploring mechanisms linking exposures and impacts.
 
